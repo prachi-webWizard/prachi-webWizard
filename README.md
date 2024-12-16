@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachi-webwizard&show_icons=true&locale=en" alt="prachi-webwizard" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=prachi-webwizard" alt="prachi streak stats" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=prachi-webwizard&count_private=true" alt="prachi streak stats" /></p>
